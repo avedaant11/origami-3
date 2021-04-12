@@ -1,0 +1,43 @@
+.s{
+    
+    border: 1px solid #191924;
+    border-radius: 50px;
+    width: 100;
+    text-align: center;
+    border: 1px solid #000000;
+    padding: 15px;
+    font-size: 20px;
+font-family: sans-serif;
+font-weight: 400;
+color: #000000;
+}
+
+.grid{
+    display:inline-flex;
+
+flex-wrap: wrap;
+justify-content: space-evenly;
+
+
+}
+.s:hover p{
+    opacity:1;
+    }
+    .s:hover:hover img{
+        opacity:0.7;
+        transform: scale(1.2);
+        }
+        .s:hover p{
+            position:absolute;
+            top:50%;
+            left:50%;
+            transform: translate(-50%,-50%);
+            opacity:0;
+        }
+        a:link{
+            color:aliceblue;
+        }
+        
+        a:visited{
+            color:aliceblue;
+        }

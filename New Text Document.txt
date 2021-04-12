@@ -1,0 +1,39 @@
+http://www.thuto.org/ubh/web/html/tags1.htm
+
+https://htmldog.com/references/html/tags/
+
+https://htmlcolorcodes.com/
+
+https://www.w3schools.com/tags/tag_a.asp
+
+<p>Hello world. Today I am learning<b> html tags</b>.</p>
+<img src="fb.png">
+<a href="https://www.instagram.com/avedaant/"><img src="insta.png" height=50></a>
+<img src="youtube.png">
+
+<h2>My Hobbies</h2>
+<ul>
+    <li>Music</li>
+    <li>Playing Football</li>
+</ul>
+
+
+//
+
+
+<a href="AboutMe.html">AboutMe</a>
+<br>
+<a href="FollowME.html">FollowME</a>
+
+
+
+
+<justify-content: first baseline;
+ display:;
+flex-direction: column;
+ border: 2px solid black;
+    border-radius: 50px;
+
+https://zaheenfatima.github.io/C-50/
+
+https://www.w3schools.com/cssref/default.asp
